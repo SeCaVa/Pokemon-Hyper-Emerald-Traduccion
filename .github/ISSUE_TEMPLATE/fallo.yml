@@ -34,7 +34,7 @@ body:
     id: parcheo
     attributes:
       label: ¿Cómo aplicaste el parche?
-      description: "El parche va sobre Pokémon - Emerald Version (USA, Europe) (CRC32 1F1C08FB). La ROM resultante de la v0.45 tiene CRC32 86F2B535."
+      description: "El parche va sobre Pokémon - Emerald Version (USA, Europe) (CRC32 1F1C08FB). La ROM resultante de la v0.45 tiene CRC32 F723D4C3."
       options:
         - "Parcheador web de SeCaVa (secava.github.io/secava-parcheador)"
         - "Rom Patcher JS"
