@@ -19,10 +19,10 @@ mucho más.
 2. Aplica el parche [`HyperEmerald_ES.bps`](https://github.com/SeCaVa/Pokemon-Hyper-Emerald-Traduccion/releases/latest)
    con el [parcheador web](https://secava.github.io/secava-parcheador/), con
    [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) o con Floating IPS (Flips).
-3. El resultado es una ROM de 32 MB con **CRC32 `8F93C830`**. Juega con cualquier emulador de GBA (mGBA
+3. El resultado es una ROM de 32 MB con **CRC32 `273AAAC9`**. Juega con cualquier emulador de GBA (mGBA
    recomendado).
 
-Versión actual: **v0.46**. SHA-256 del parche: `91d50aeefe3c06b38b048c82ef4aba315281c0523d7d26947c132fe24b2d8a3a`.
+Versión actual: **v0.47**. SHA-256 del parche: `805837ae0bd1e108e487e8fd01c744c8943ba266745a1fb3a1f9ed7967163ebb`.
 
 El parche se aplica **directamente a Pokémon Emerald USA**: no hace falta conseguir el hack chino ni aplicar antes el
 parche en inglés, porque ya los incluye.
@@ -88,9 +88,9 @@ Emerald hack, built on **Nn-Exe**'s English + quality-of-life patch (v2.0).
 2. Apply the patch [`HyperEmerald_ES.bps`](https://github.com/SeCaVa/Pokemon-Hyper-Emerald-Traduccion/releases/latest)
    with the [web patcher](https://secava.github.io/secava-parcheador/),
    [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) or Floating IPS (Flips).
-3. The result is a 32 MB ROM with **CRC32 `8F93C830`**. Play it on any GBA emulator (mGBA recommended).
+3. The result is a 32 MB ROM with **CRC32 `273AAAC9`**. Play it on any GBA emulator (mGBA recommended).
 
-Current version: **v0.46**. Patch SHA-256: `91d50aeefe3c06b38b048c82ef4aba315281c0523d7d26947c132fe24b2d8a3a`.
+Current version: **v0.47**. Patch SHA-256: `805837ae0bd1e108e487e8fd01c744c8943ba266745a1fb3a1f9ed7967163ebb`.
 
 The patch applies **directly to Pokémon Emerald USA**: you don't need the Chinese hack or the English patch, both are
 already included.
